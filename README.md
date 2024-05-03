@@ -1,6 +1,6 @@
 ## Project Overview
 
-The CanineClassifier is a comprehensive tool for splitting and analyzing dog imagery. It utilizes several Python scripts to handle different aspects of the image classification process, including image checking, labeling, and classification based on predefined models. This project is ideal for demonstrating practical applications of AI in identifying specific characteristics in animal images.
+The AI-Dog-Classifier is a comprehensive tool for splitting and analyzing dog imagery. It utilizes several Python scripts to handle different aspects of the image classification process, including image checking, labeling, and classification based on predefined models. This project is ideal for demonstrating practical applications of AI in identifying specific characteristics in animal images.
 
 ## How to Use
 
